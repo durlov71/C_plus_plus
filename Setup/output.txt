@@ -1,0 +1,2 @@
+New number 10
+my float number is 10.8
